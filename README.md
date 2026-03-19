@@ -1,4 +1,5 @@
 ![Hog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hog185&theme=swift&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hog185)](https://git.io/streak-stats)
 - I am currently working on [Lufus](https://github.com/hog185/lufus)
 <!--
 **Hog185/Hog185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
